@@ -23,10 +23,10 @@ Examples
 
 int main()
 {
-	_printf("Hello world, I'm a %s", "Bello");
+	_printf("Hello world, I'm a %s", "James");
 	return (0);
 }
-Hello world, I'm a Bello
+Hello world, I'm a James
 
 #include "main.h"
 
